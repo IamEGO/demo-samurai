@@ -1,0 +1,1 @@
+{"version":3,"sources":["Dialogs.module.css"],"names":[],"mappings":"AAAA,wBACI,YAAa,CACb,8BACJ,CAMA,oDACI,aACJ","file":"4.b36454a0.chunk.css","sourcesContent":[".dialogs{\r\n    display: grid;\r\n    grid-template-columns: 2fr 10fr;\r\n}\r\n\r\n.dialogsItems .dialog {\r\n\r\n}\r\n\r\n.dialogsItems .active {\r\n    color: goldenrod;\r\n}\r\n.messages .message {\r\n\r\n}"]}
