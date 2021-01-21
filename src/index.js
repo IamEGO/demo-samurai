@@ -2,11 +2,11 @@ import * as serviceWorker from './serviceWorker';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import SamuraiJSApp from './App';
+import App from './App.js';
 
 
   ReactDOM.render(
-        <SamuraiJSApp />
+        <App />
      ,document.getElementById('root')
   );
 
