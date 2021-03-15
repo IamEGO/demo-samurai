@@ -6,3 +6,18 @@
     height: 400px;
     width: 1000px;
 }
+
+.mainPhoto {
+    max-width: 200px;
+}
+
+.contact {
+    padding-left: 15px;
+}
+
+.formSummaryError
+{
+    border: red 1px solid;
+    padding: 5px;
+    color: red;
+}
